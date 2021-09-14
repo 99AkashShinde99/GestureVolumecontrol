@@ -1,10 +1,11 @@
 # GestureVolumecontrol
 Gesture Volume control using OpenCV and using mediapipe framework
+install openCV using pip command --> pip install openCV
 install mediapipe using pip command ---> pip install mediapipe
 or
 If you are using pycharm you can just simply install it from the settings menu
 Later you need to install pycaw by using --> pip install pycaw
-or same as mentioned on line 5
+or same as mentioned on line 6
 pycaw(Developed by AndreMiras is the best module you can find and is the most used)
 pycaw usage code is given below
 
